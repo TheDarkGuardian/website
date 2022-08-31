@@ -12,7 +12,7 @@ function Navigation() {
               className="mr-3 h-6 sm:h-10"
             />
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              Encoderpie
+              Lévix
             </span>
           </a>
         </Link>
