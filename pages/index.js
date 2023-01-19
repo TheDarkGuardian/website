@@ -41,13 +41,13 @@ export default function Home() {
             <div className="p-3 w-3/4 h-72 divide-y divide-slate-600 hidden md:float-left md:w-full md:block lg:float-right relative rounded bg-gray-800">
               <div>
                 <div className="flex">
-                  <div className="text-sky-500">~/lévix/details</div>
+                  <div className="text-sky-500">~/levix/details</div>
                   <div className="text-sky-700 ml-2">whoami</div>
                 </div>
                 <div className="ml-3 mt-1">
                   <div className="grid grid-cols-4 gap-1">
                     <div className="text-red-400">username</div>
-                    <div className="col-span-3">Lévix</div>
+                    <div className="col-span-3">Levix</div>
                     <div className="text-red-400">name</div>
                     <div className="col-span-3">Arda Baran</div>
                     <div className="text-red-400">country</div>
@@ -60,7 +60,7 @@ export default function Home() {
                     </div>
                     <div className="text-red-400">using</div>
                     <div className="col-span-3">
-                      HTML&CSS, Javascript, C#
+                      HTML&CSS, Javascript, C#, NodeJs
                     </div>
                     <div className="text-red-400">os</div>
                     <div className="col-span-3">Windows/Macbook</div>
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="mt-1 text-xl text-gray-200 flex border-2 rounded-xl w-max px-4 py-2 border-sky-700">
             My discord:
-            <div className="text-sky-500 mx-1">! 🍁 Lévix 🍁 ! †#0001</div>
+            <div className="text-sky-500 mx-1">Levix#0001</div>
           </div>
           <div className="mt-1 text-xl text-gray-200 flex border-2 rounded-xl w-max px-4 py-2 border-sky-700">
             My instagram:
