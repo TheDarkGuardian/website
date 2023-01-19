@@ -18,7 +18,7 @@ function Navigation() {
         </Link>
         <div className='block md:hidden flex opacity-70 text-sm'>
           <div className='text-red-600'>{'{'}</div>
-          <div className='text-cyan-600'>ENC</div>
+          <div className='text-cyan-600'>LEVIX</div>
           <div className='text-red-600'>{'}'}</div>
         </div>
         <div className="hidden w-full md:block md:w-auto" id="navbar-solid-bg">
